@@ -1,5 +1,4 @@
 import express, { json } from 'express';
-import { Request, Response } from 'express';
 import { Routes } from './routes/routes';
 
 
