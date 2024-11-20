@@ -9,7 +9,7 @@ export class Routes {
         const router = Router();
 
         router.get("/hello-world", helloWorld)
-
+        
         return router;
     }
 
